@@ -1,0 +1,82 @@
+footer {
+    background-color: rgb(206, 206, 248);
+    margin-top: 2%;
+    padding: 2%;
+    align-items: end;
+    border: 10px solid black;
+    border-radius: 15px;
+    text-align: center;
+}
+h1 {
+    padding: 10px;
+}
+header{
+    background-color: blueviolet; 
+    color: aqua;
+    height: 10vh;
+    margin: 0%;
+    padding: 0%;
+    text-align: center;
+    text-decoration: double;
+    border: 10px solid black;
+    border-radius: 15px;
+}
+html, body {
+    height: 100%;
+    margin: 0%;
+    padding: 10px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+div  {
+    height: 90%;
+    width: 30%;
+    margin: 0%;
+    padding: 2%;
+    background-color: chocolate;
+    margin-right:10px ;
+}
+.second{
+    overflow: hidden; 
+    background-color: aqua;
+    width: 100%;
+    float: right;
+    margin-right:0 ;
+}
+
+main {
+    margin-top: 2%;
+    display: flex;
+    background-color: black;
+    color: rgb(255, 255, 255);
+    padding: 10px;
+    height: 100%;
+    
+    border-radius: 15px;
+}
+article{
+    background-color: bisque;
+    text-align: justify;
+    font-size: 17px;
+    color:black;
+    margin-right: 15px;
+    width: 300px;
+    height: 250px;
+    border: 10px solid black;
+    border-radius: 15px;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.5);
+    padding: 30px;
+    margin: 20px;
+    float: left;
+}
+
+.cuadro {
+    clear: left;
+}
+h2{
+    text-align: center;
+}
+h2, p{
+    text-align: justify;
+    font-size: larger;
+}
